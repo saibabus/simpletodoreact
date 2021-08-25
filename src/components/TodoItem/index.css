@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.todolistcontainer {
+  list-style-type: none;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+}
+
+.titlestyle {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 15px;
+  text-align: start;
+  flex-grow: 1;
+}
+
+.button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-radius: 15px;
+  border: 1px #ff0b37 solid;
+  padding: 10px;
+}

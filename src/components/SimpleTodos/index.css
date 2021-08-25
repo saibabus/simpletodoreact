@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.mainbgcontainer {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.todosContentcon {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 15px;
+  width: 70%;
+}
+
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.unorderlistcontaine {
+  width: 80%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
